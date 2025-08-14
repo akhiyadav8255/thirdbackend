@@ -1,0 +1,25 @@
+{
+  "name": "todothirdbackend",
+  "version": "1.0.0",
+  "description": "this is my third backend project",
+  "keywords": [
+    "git",
+    "github",
+    "todo"
+  ],
+  "homepage": "https://github.com/akhiyadav8255/thirdbackend#readme",
+  "bugs": {
+    "url": "https://github.com/akhiyadav8255/thirdbackend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/akhiyadav8255/thirdbackend.git"
+  },
+  "license": "ISC",
+  "author": "akshaya",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "start":"node app.js"
+  }
+}
